@@ -1,4 +1,4 @@
-const button = document.getElementById("button");
+const button = document.querySelector("button");
 const buttonIcon = document.querySelector(".button__icon");
 
 const icon_01 =
